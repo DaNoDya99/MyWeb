@@ -46,6 +46,7 @@ p{
 .top{
     padding-top: 100px;
     background-color: #E0FFFB;
+    width: 100%;
 }
 
 .mid{
@@ -154,4 +155,8 @@ hr{
 
 .btn:hover{
     background-color: #eb8b50;
+}
+
+.mountain{
+    width: 50%;
 }
